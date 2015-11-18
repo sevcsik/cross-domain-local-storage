@@ -36,6 +36,7 @@
     "grunt-karma": "^0.8.2",
     "grunt-release": "^0.7.0"
   },
+  "main": "dist/scripts/ng-xdLocalStorage.min.js",
   "engines": {
     "node": ">=0.10.0"
   }
