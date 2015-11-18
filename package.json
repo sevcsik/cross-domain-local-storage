@@ -1,6 +1,6 @@
 {
-  "name": "test",
-  "version": "0.0.0",
+  "name": "cross-domain-local-storage",
+  "version": "2.0.1",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
